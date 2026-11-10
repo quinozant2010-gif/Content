@@ -1,64 +1,64 @@
 PERSEUS
 Voice: Young male, 18-22. Warm but tense, steady under pressure.
-Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-02_polydectes.mp3).
+Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-03_polydectes.mp3).
 
-BEAT 04  (Humble but proud, steady)
+BEAT 05  (Humble but proud, steady)
 I am a fisherman's son. I have nothing to give.
 
-BEAT 06  (Low, angry, controlled)
+BEAT 07  (Low, angry, controlled)
 Because you want my mother. And she refused you.
 
-BEAT 09  (Reckless pride)
+BEAT 10  (Reckless pride)
 Anything. You name it.
 
-BEAT 15  (Quiet, absolute resolve)
+BEAT 16  (Quiet, absolute resolve)
 I will bring it.
 
-BEAT 24  (Warm, confident)
+BEAT 26  (Warm, confident)
 I'll return with her head.
 
-BEAT 25  (Soft, protective)
+BEAT 27  (Soft, protective)
 And then he'll never touch you.
 
-BEAT 27  (Gentle, brave)
+BEAT 29  (Gentle, brave)
 Then you'll have both.
 
-BEAT 30  (Wary, dazzled)
+BEAT 32  (Wary, dazzled)
 Who are you?
 
-BEAT 32  (Bitter half-laugh)
+BEAT 34  (Bitter half-laugh)
 Zeus? Now he remembers me?
 
-BEAT 36  (Suspicious)
+BEAT 38  (Suspicious)
 Why help me? What is she to you?
 
-BEAT 38  (Quiet challenge)
+BEAT 40  (Quiet challenge)
 Did she?
 
-BEAT 40  (Disbelief)
+BEAT 42  (Disbelief)
 And for that she must die?
 
-BEAT 46  (Hard, threatening)
+BEAT 49  (Hard, threatening)
 Where is the Gorgon?
 
-BEAT 53  (Tense, breathy)
+BEAT 57  (Tense, breathy)
 I'm not here for a name.
 
-BEAT 55  (Trembling)
+BEAT 59  (Trembling)
 To save my mother.
 
-BEAT 62  (Evasive, small)
+BEAT 66  (Evasive, small)
 A king.
 
-BEAT 66  (Barely audible)
+BEAT 70  (Barely audible)
 Athena.
 
-BEAT 83  (Ice-cold calm)
+BEAT 89  (Ice-cold calm)
 You asked for a gift.
 
-BEAT 87  (Soft, final)
+BEAT 93  (Soft, final)
 Mother. Close your eyes.
 
-BEAT 91  (Grief and accusation)
+BEAT 98  (Grief and accusation)
 She was a priestess. Yours.
 

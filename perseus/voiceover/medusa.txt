@@ -1,55 +1,55 @@
 MEDUSA
 Voice: Haunting female, 20s. Sorrowful and quiet, breaking into rage. Add subtle hiss/reverb.
-Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-02_polydectes.mp3).
+Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-03_polydectes.mp3).
 
-BEAT 50  (Weary, low, echoing)
+BEAT 54  (Weary, low, echoing)
 Another one.
 
-BEAT 51  (Melancholy, slow)
+BEAT 55  (Melancholy, slow)
 Look at them. Fishermen. Soldiers. Kings.
 
-BEAT 52  (Grim, quiet)
+BEAT 56  (Grim, quiet)
 They all came to make a name. Now they have none.
 
-BEAT 54  (Curious, soft)
+BEAT 58  (Curious, soft)
 Then why are you here?
 
-BEAT 56  (Nostalgic, grieving)
+BEAT 60  (Nostalgic, grieving)
 Your mother. I had sisters once.
 
-BEAT 57  (Tender memory)
+BEAT 61  (Tender memory)
 A temple. A goddess. I prayed every night.
 
-BEAT 58  (Pure, aching)
+BEAT 62  (Pure, aching)
 I never broke a single promise.
 
-BEAT 59  (Voice darkening)
+BEAT 63  (Voice darkening)
 And when they came for me, she watched.
 
-BEAT 60  (Rising anguish, last word broken)
+BEAT 64  (Rising anguish, last word broken)
 She punished me. Not him. Me.
 
-BEAT 61  (Sudden, dangerous)
+BEAT 65  (Sudden, dangerous)
 Who sent you?
 
-BEAT 63  (Slow realization)
+BEAT 67  (Slow realization)
 Who gave you that shield?
 
-BEAT 65  (Cold fury, whispered)
+BEAT 69  (Cold fury, whispered)
 Say her name.
 
-BEAT 67  (Non-verbal: broken laugh turning to scream)
+BEAT 71  (Non-verbal: broken laugh turning to scream)
 [laughter] [screaming]
 
-BEAT 68  (Bitter, tearful)
+BEAT 72  (Bitter, tearful)
 Even now. Even here.
 
-BEAT 69  (Defiant, raw)
+BEAT 73  (Defiant, raw)
 She can't face me herself.
 
-BEAT 75  (Non-verbal: final scream, cut by [blade] SFX, then [silence])
-[scream]
+BEAT 79  (Non-verbal: final scream, cut by [blade] SFX)
+[scream] [blade]
 
-BEAT 76  (Dying whisper, human again)
+BEAT 81  (Dying whisper, human again)
 I forgave them all.
 

@@ -1,13 +1,13 @@
 DANAË (YOUNG)
 Voice: Same actress/voice as Danaë, younger and whispered.
-Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-02_polydectes.mp3).
+Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-03_polydectes.mp3).
 
-BEAT 19  (Whispered, soothing, scared)
+BEAT 21  (Whispered, soothing, scared)
 Shh. Shh. Your grandfather sealed us in this chest.
 
-BEAT 20  (Whispered, fierce)
+BEAT 22  (Whispered, fierce)
 The sea will not take us.
 
-BEAT 21  (Hopeful, almost a prayer)
+BEAT 23  (Hopeful, almost a prayer)
 Your father is a god. One day, he will come for us.
 

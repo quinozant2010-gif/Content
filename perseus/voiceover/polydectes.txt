@@ -1,37 +1,37 @@
 POLYDECTES
 Voice: Deep, smooth, arrogant male, 45-55. Slow and mocking.
-Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-02_polydectes.mp3).
+Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-03_polydectes.mp3).
 
-BEAT 02  (Lazy, boastful, savoring it)
+BEAT 03  (Lazy, boastful, savoring it)
 Every man in Seriphos brought a horse for my wedding.
 
-BEAT 03  (Mocking, drawn out)
+BEAT 04  (Mocking, drawn out)
 And you bring me nothing?
 
-BEAT 05  (Contemptuous)
+BEAT 06  (Contemptuous)
 Nothing. Then why do you stand in my hall?
 
-BEAT 07  (Quiet menace, a smile in the voice)
+BEAT 08  (Quiet menace, a smile in the voice)
 She will accept when her son is gone.
 
-BEAT 08  (Taunting)
+BEAT 09  (Taunting)
 Name your gift, boy.
 
-BEAT 10  (Slow, cold, satisfied)
+BEAT 11  (Slow, cold, satisfied)
 The head of the Gorgon.
 
-BEAT 13  (Theatrical, to the crowd)
+BEAT 14  (Theatrical, to the crowd)
 He offered. Anything, he said.
 
-BEAT 14  (Provoking)
+BEAT 15  (Provoking)
 Or are the sons of Zeus liars?
 
-BEAT 82  (Laughing, smug)
+BEAT 88  (Laughing, smug)
 The fisherman's son returns. Empty-handed?
 
-BEAT 84  (Greedy curiosity)
+BEAT 90  (Greedy curiosity)
 Show me, then.
 
-BEAT 85  (Grand, mocking, to the crowd)
+BEAT 91  (Grand, mocking, to the crowd)
 Show the whole hall what a fisherman's son can bring.
 

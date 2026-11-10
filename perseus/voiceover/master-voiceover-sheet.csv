@@ -1,97 +1,104 @@
 beat,character,line,delivery,clip_filename,type
 1,SFX,[thunder] [heavy breathing] [goblets slamming],,,sfx/music
-2,POLYDECTES,Every man in Seriphos brought a horse for my wedding.,"Lazy, boastful, savoring it",beat-02_polydectes.mp3,dialogue
-3,POLYDECTES,And you bring me nothing?,"Mocking, drawn out",beat-03_polydectes.mp3,dialogue
-4,PERSEUS,I am a fisherman's son. I have nothing to give.,"Humble but proud, steady",beat-04_perseus.mp3,dialogue
-5,POLYDECTES,Nothing. Then why do you stand in my hall?,Contemptuous,beat-05_polydectes.mp3,dialogue
-6,PERSEUS,Because you want my mother. And she refused you.,"Low, angry, controlled",beat-06_perseus.mp3,dialogue
-7,POLYDECTES,She will accept when her son is gone.,"Quiet menace, a smile in the voice",beat-07_polydectes.mp3,dialogue
-8,POLYDECTES,"Name your gift, boy.",Taunting,beat-08_polydectes.mp3,dialogue
-9,PERSEUS,Anything. You name it.,Reckless pride,beat-09_perseus.mp3,dialogue
-10,POLYDECTES,The head of the Gorgon.,"Slow, cold, satisfied",beat-10_polydectes.mp3,dialogue
-11,SFX,[silence] [laughter from the hall],Crowd laughter (walla),,sfx/music
-12,DANAË,No. No one returns from her. You know that.,"Desperate, breaking",beat-12_danae.mp3,dialogue
-13,POLYDECTES,"He offered. Anything, he said.","Theatrical, to the crowd",beat-13_polydectes.mp3,dialogue
-14,POLYDECTES,Or are the sons of Zeus liars?,Provoking,beat-14_polydectes.mp3,dialogue
-15,PERSEUS,I will bring it.,"Quiet, absolute resolve",beat-15_perseus.mp3,dialogue
-16,SFX,[music],,,sfx/music
+2,SFX,[thunder] [heavy breathing] [goblets slamming],,,sfx/music
+3,POLYDECTES,Every man in Seriphos brought a horse for my wedding.,"Lazy, boastful, savoring it",beat-03_polydectes.mp3,dialogue
+4,POLYDECTES,And you bring me nothing?,"Mocking, drawn out",beat-04_polydectes.mp3,dialogue
+5,PERSEUS,I am a fisherman's son. I have nothing to give.,"Humble but proud, steady",beat-05_perseus.mp3,dialogue
+6,POLYDECTES,Nothing. Then why do you stand in my hall?,Contemptuous,beat-06_polydectes.mp3,dialogue
+7,PERSEUS,Because you want my mother. And she refused you.,"Low, angry, controlled",beat-07_perseus.mp3,dialogue
+8,POLYDECTES,She will accept when her son is gone.,"Quiet menace, a smile in the voice",beat-08_polydectes.mp3,dialogue
+9,POLYDECTES,"Name your gift, boy.",Taunting,beat-09_polydectes.mp3,dialogue
+10,PERSEUS,Anything. You name it.,Reckless pride,beat-10_perseus.mp3,dialogue
+11,POLYDECTES,The head of the Gorgon.,"Slow, cold, satisfied",beat-11_polydectes.mp3,dialogue
+12,SFX,[silence] [laughter from the hall],Crowd laughter (walla),,sfx/music
+13,DANAË,No. No one returns from her. You know that.,"Desperate, breaking",beat-13_danae.mp3,dialogue
+14,POLYDECTES,"He offered. Anything, he said.","Theatrical, to the crowd",beat-14_polydectes.mp3,dialogue
+15,POLYDECTES,Or are the sons of Zeus liars?,Provoking,beat-15_polydectes.mp3,dialogue
+16,PERSEUS,I will bring it.,"Quiet, absolute resolve",beat-16_perseus.mp3,dialogue
 17,SFX,[music],,,sfx/music
-18,SFX,[waves crashing] [infant crying],,,sfx/music
-19,DANAË (YOUNG),Shh. Shh. Your grandfather sealed us in this chest.,"Whispered, soothing, scared",beat-19_danae-young.mp3,dialogue
-20,DANAË (YOUNG),The sea will not take us.,"Whispered, fierce",beat-20_danae-young.mp3,dialogue
-21,DANAË (YOUNG),"Your father is a god. One day, he will come for us.","Hopeful, almost a prayer",beat-21_danae-young.mp3,dialogue
-22,SFX,[music],,,sfx/music
-23,DANAË,Swear you'll return to me.,"Tender, holding back tears",beat-23_danae.mp3,dialogue
-24,PERSEUS,I'll return with her head.,"Warm, confident",beat-24_perseus.mp3,dialogue
-25,PERSEUS,And then he'll never touch you.,"Soft, protective",beat-25_perseus.mp3,dialogue
-26,DANAË,I don't want her head. I want my son.,Heartbroken,beat-26_danae.mp3,dialogue
-27,PERSEUS,Then you'll have both.,"Gentle, brave",beat-27_perseus.mp3,dialogue
-28,SFX,[music] [wind howling],,,sfx/music
-29,ATHENA,Perseus.,"Calm, echoing, divine",beat-29_athena.mp3,dialogue
-30,PERSEUS,Who are you?,"Wary, dazzled",beat-30_perseus.mp3,dialogue
-31,ATHENA,Your sister. Athena. Our father sent me.,"Regal, measured",beat-31_athena.mp3,dialogue
-32,PERSEUS,Zeus? Now he remembers me?,Bitter half-laugh,beat-32_perseus.mp3,dialogue
-33,ATHENA,Take this shield. Never look at her.,Commanding,beat-33_athena.mp3,dialogue
-34,ATHENA,Only her reflection.,"Low, deliberate",beat-34_athena.mp3,dialogue
-35,HERMES,And this blade. It cuts what nothing else can.,"Sly, playful",beat-35_hermes.mp3,dialogue
-36,PERSEUS,Why help me? What is she to you?,Suspicious,beat-36_perseus.mp3,dialogue
-37,ATHENA,She defiled my temple.,"Cold, clipped",beat-37_athena.mp3,dialogue
-38,PERSEUS,Did she?,Quiet challenge,beat-38_perseus.mp3,dialogue
-39,ATHENA,She renounced me.,"Wounded pride, icy",beat-39_athena.mp3,dialogue
-40,PERSEUS,And for that she must die?,Disbelief,beat-40_perseus.mp3,dialogue
-41,ATHENA,"For that, she must never be spoken of again.","Final, chilling",beat-41_athena.mp3,dialogue
-42,SFX,[music],,,sfx/music
-43,GRAEAE,[cackling],Non-verbal: layered crone cackle,beat-43_graeae.mp3,non-verbal
-44,GRAEAE,Who's there? Who took our eye? Give it back!,"Panicked, overlapping",beat-44_graeae.mp3,dialogue
-45,GRAEAE,"Thief! Three sisters, one eye, and you rob the blind?",Shrieking,beat-45_graeae.mp3,dialogue
-46,PERSEUS,Where is the Gorgon?,"Hard, threatening",beat-46_perseus.mp3,dialogue
-47,GRAEAE,West. Past the stones that were men.,"Raspy whisper, sinister",beat-47_graeae.mp3,dialogue
-48,SFX,[music],,,sfx/music
-49,SFX,[music] [hissing],,,sfx/music
-50,MEDUSA,Another one.,"Weary, low, echoing",beat-50_medusa.mp3,dialogue
-51,MEDUSA,Look at them. Fishermen. Soldiers. Kings.,"Melancholy, slow",beat-51_medusa.mp3,dialogue
-52,MEDUSA,They all came to make a name. Now they have none.,"Grim, quiet",beat-52_medusa.mp3,dialogue
-53,PERSEUS,I'm not here for a name.,"Tense, breathy",beat-53_perseus.mp3,dialogue
-54,MEDUSA,Then why are you here?,"Curious, soft",beat-54_medusa.mp3,dialogue
-55,PERSEUS,To save my mother.,Trembling,beat-55_perseus.mp3,dialogue
-56,MEDUSA,Your mother. I had sisters once.,"Nostalgic, grieving",beat-56_medusa.mp3,dialogue
-57,MEDUSA,A temple. A goddess. I prayed every night.,Tender memory,beat-57_medusa.mp3,dialogue
-58,MEDUSA,I never broke a single promise.,"Pure, aching",beat-58_medusa.mp3,dialogue
-59,MEDUSA,"And when they came for me, she watched.",Voice darkening,beat-59_medusa.mp3,dialogue
-60,MEDUSA,She punished me. Not him. Me.,"Rising anguish, last word broken",beat-60_medusa.mp3,dialogue
-61,MEDUSA,Who sent you?,"Sudden, dangerous",beat-61_medusa.mp3,dialogue
-62,PERSEUS,A king.,"Evasive, small",beat-62_perseus.mp3,dialogue
-63,MEDUSA,Who gave you that shield?,Slow realization,beat-63_medusa.mp3,dialogue
-64,SFX,[silence],,,sfx/music
-65,MEDUSA,Say her name.,"Cold fury, whispered",beat-65_medusa.mp3,dialogue
-66,PERSEUS,Athena.,Barely audible,beat-66_perseus.mp3,dialogue
-67,MEDUSA,[laughter] [screaming],Non-verbal: broken laugh turning to scream,beat-67_medusa.mp3,non-verbal
-68,MEDUSA,Even now. Even here.,"Bitter, tearful",beat-68_medusa.mp3,dialogue
-69,MEDUSA,She can't face me herself.,"Defiant, raw",beat-69_medusa.mp3,dialogue
-70,SFX,[hissing] [music],,,sfx/music
-71,ATHENA,Eyes on the shield. Eyes on the shield. Eyes on the shield.,"Whispered chant, reverb, quiet",beat-71_athena.mp3,dialogue
-72,ATHENA,Eyes on the shield. Eyes on the shield. Eyes on the shield.,"Whispered chant, layered, louder",beat-72_athena.mp3,dialogue
-73,ATHENA,Eyes on the shield. Eyes on the shield.,"Chant, intense",beat-73_athena.mp3,dialogue
-74,ATHENA,Eyes on the shield. Eyes on the shield.,"Chant, peak intensity",beat-74_athena.mp3,dialogue
-75,MEDUSA,[scream],"Non-verbal: final scream, cut by [blade] SFX, then [silence]",beat-75_medusa.mp3,non-verbal
-76,MEDUSA,I forgave them all.,"Dying whisper, human again",beat-76_medusa.mp3,dialogue
-77,SFX,[music],,,sfx/music
-78,STHENO,Medusa? Medusa!,"Horrified, guttural",beat-78_stheno.mp3,dialogue
-79,EURYALE,"Sister, wake up. Who did this? Who did this?",Wailing grief,beat-79_euryale.mp3,dialogue
-80,STHENO + EURYALE,[screaming],"Non-verbal: vengeful shrieks, layered with [music]",beat-80_stheno-euryale.mp3,non-verbal
-81,SFX,[music],,,sfx/music
-82,POLYDECTES,The fisherman's son returns. Empty-handed?,"Laughing, smug",beat-82_polydectes.mp3,dialogue
-83,PERSEUS,You asked for a gift.,Ice-cold calm,beat-83_perseus.mp3,dialogue
-84,POLYDECTES,"Show me, then.",Greedy curiosity,beat-84_polydectes.mp3,dialogue
-85,POLYDECTES,Show the whole hall what a fisherman's son can bring.,"Grand, mocking, to the crowd",beat-85_polydectes.mp3,dialogue
-86,DANAË,Perseus... don't.,Frightened plea,beat-86_danae.mp3,dialogue
-87,PERSEUS,Mother. Close your eyes.,"Soft, final",beat-87_perseus.mp3,dialogue
-88,SFX,[stone cracking] [silence],,,sfx/music
-89,SFX,[music],,,sfx/music
-90,ATHENA,Give it to me.,Commanding,beat-90_athena.mp3,dialogue
-91,PERSEUS,She was a priestess. Yours.,Grief and accusation,beat-91_perseus.mp3,dialogue
-92,ATHENA,And now she will guard me forever.,"Triumphant, cold",beat-92_athena.mp3,dialogue
-93,ATHENA,Let every man who looks upon my shield,"Imperious, slow",beat-93_athena.mp3,dialogue
-94,ATHENA,remember what happens to those who turn away.,"Icy warning, trailing off",beat-94_athena.mp3,dialogue
-95,SFX,[stone grinding] [eyes opening] [hiss],,,sfx/music
+18,SFX,[music],,,sfx/music
+19,SFX,[music],,,sfx/music
+20,SFX,[waves crashing] [infant crying],,,sfx/music
+21,DANAË (YOUNG),Shh. Shh. Your grandfather sealed us in this chest.,"Whispered, soothing, scared",beat-21_danae-young.mp3,dialogue
+22,DANAË (YOUNG),The sea will not take us.,"Whispered, fierce",beat-22_danae-young.mp3,dialogue
+23,DANAË (YOUNG),"Your father is a god. One day, he will come for us.","Hopeful, almost a prayer",beat-23_danae-young.mp3,dialogue
+24,SFX,[music],,,sfx/music
+25,DANAË,Swear you'll return to me.,"Tender, holding back tears",beat-25_danae.mp3,dialogue
+26,PERSEUS,I'll return with her head.,"Warm, confident",beat-26_perseus.mp3,dialogue
+27,PERSEUS,And then he'll never touch you.,"Soft, protective",beat-27_perseus.mp3,dialogue
+28,DANAË,I don't want her head. I want my son.,Heartbroken,beat-28_danae.mp3,dialogue
+29,PERSEUS,Then you'll have both.,"Gentle, brave",beat-29_perseus.mp3,dialogue
+30,SFX,[music] [wind howling],,,sfx/music
+31,ATHENA,Perseus.,"Calm, echoing, divine",beat-31_athena.mp3,dialogue
+32,PERSEUS,Who are you?,"Wary, dazzled",beat-32_perseus.mp3,dialogue
+33,ATHENA,Your sister. Athena. Our father sent me.,"Regal, measured",beat-33_athena.mp3,dialogue
+34,PERSEUS,Zeus? Now he remembers me?,Bitter half-laugh,beat-34_perseus.mp3,dialogue
+35,ATHENA,Take this shield.,Commanding,beat-35_athena.mp3,dialogue
+36,ATHENA,Never look at her. Only her reflection.,"Low, deliberate",beat-36_athena.mp3,dialogue
+37,HERMES,And this blade. It cuts what nothing else can.,"Sly, playful",beat-37_hermes.mp3,dialogue
+38,PERSEUS,Why help me? What is she to you?,Suspicious,beat-38_perseus.mp3,dialogue
+39,ATHENA,She defiled my temple.,"Cold, clipped",beat-39_athena.mp3,dialogue
+40,PERSEUS,Did she?,Quiet challenge,beat-40_perseus.mp3,dialogue
+41,ATHENA,She renounced me.,"Wounded pride, icy",beat-41_athena.mp3,dialogue
+42,PERSEUS,And for that she must die?,Disbelief,beat-42_perseus.mp3,dialogue
+43,ATHENA,"For that, she must never be spoken of again.","Final, chilling",beat-43_athena.mp3,dialogue
+44,SFX,[music],,,sfx/music
+45,SFX,[music],,,sfx/music
+46,GRAEAE,[music] [cackling],Non-verbal: layered crone cackle over [music],beat-46_graeae.mp3,non-verbal
+47,GRAEAE,Who's there? Who took our eye? Give it back!,"Panicked, overlapping",beat-47_graeae.mp3,dialogue
+48,GRAEAE,"Thief! Three sisters, one eye, and you rob the blind?",Shrieking,beat-48_graeae.mp3,dialogue
+49,PERSEUS,Where is the Gorgon?,"Hard, threatening",beat-49_perseus.mp3,dialogue
+50,GRAEAE,West. Past the stones that were men.,"Raspy whisper, sinister",beat-50_graeae.mp3,dialogue
+51,SFX,[music],,,sfx/music
+52,SFX,[music],,,sfx/music
+53,SFX,[music] [hissing],,,sfx/music
+54,MEDUSA,Another one.,"Weary, low, echoing",beat-54_medusa.mp3,dialogue
+55,MEDUSA,Look at them. Fishermen. Soldiers. Kings.,"Melancholy, slow",beat-55_medusa.mp3,dialogue
+56,MEDUSA,They all came to make a name. Now they have none.,"Grim, quiet",beat-56_medusa.mp3,dialogue
+57,PERSEUS,I'm not here for a name.,"Tense, breathy",beat-57_perseus.mp3,dialogue
+58,MEDUSA,Then why are you here?,"Curious, soft",beat-58_medusa.mp3,dialogue
+59,PERSEUS,To save my mother.,Trembling,beat-59_perseus.mp3,dialogue
+60,MEDUSA,Your mother. I had sisters once.,"Nostalgic, grieving",beat-60_medusa.mp3,dialogue
+61,MEDUSA,A temple. A goddess. I prayed every night.,Tender memory,beat-61_medusa.mp3,dialogue
+62,MEDUSA,I never broke a single promise.,"Pure, aching",beat-62_medusa.mp3,dialogue
+63,MEDUSA,"And when they came for me, she watched.",Voice darkening,beat-63_medusa.mp3,dialogue
+64,MEDUSA,She punished me. Not him. Me.,"Rising anguish, last word broken",beat-64_medusa.mp3,dialogue
+65,MEDUSA,Who sent you?,"Sudden, dangerous",beat-65_medusa.mp3,dialogue
+66,PERSEUS,A king.,"Evasive, small",beat-66_perseus.mp3,dialogue
+67,MEDUSA,Who gave you that shield?,Slow realization,beat-67_medusa.mp3,dialogue
+68,SFX,[silence],,,sfx/music
+69,MEDUSA,Say her name.,"Cold fury, whispered",beat-69_medusa.mp3,dialogue
+70,PERSEUS,Athena.,Barely audible,beat-70_perseus.mp3,dialogue
+71,MEDUSA,[laughter] [screaming],Non-verbal: broken laugh turning to scream,beat-71_medusa.mp3,non-verbal
+72,MEDUSA,Even now. Even here.,"Bitter, tearful",beat-72_medusa.mp3,dialogue
+73,MEDUSA,She can't face me herself.,"Defiant, raw",beat-73_medusa.mp3,dialogue
+74,SFX,[hissing] [music],,,sfx/music
+75,ATHENA,Eyes on the shield. Eyes on the shield. Eyes on the shield.,"Whispered chant, reverb, quiet",beat-75_athena.mp3,dialogue
+76,ATHENA,Eyes on the shield. Eyes on the shield. Eyes on the shield.,"Whispered chant, reverb, quiet",beat-76_athena.mp3,dialogue
+77,ATHENA,Eyes on the shield. Eyes on the shield.,"Chant, intense",beat-77_athena.mp3,dialogue
+78,ATHENA,Eyes on the shield. Eyes on the shield.,"Chant, intense",beat-78_athena.mp3,dialogue
+79,MEDUSA,[scream] [blade],"Non-verbal: final scream, cut by [blade] SFX",beat-79_medusa.mp3,non-verbal
+80,SFX,[silence],,,sfx/music
+81,MEDUSA,I forgave them all.,"Dying whisper, human again",beat-81_medusa.mp3,dialogue
+82,SFX,[music],,,sfx/music
+83,STHENO,Medusa? Medusa!,"Horrified, guttural",beat-83_stheno.mp3,dialogue
+84,EURYALE,"Sister, wake up.",Wailing grief,beat-84_euryale.mp3,dialogue
+85,EURYALE,Who did this? Who did this?,"Wailing, rising to a shriek",beat-85_euryale.mp3,dialogue
+86,STHENO + EURYALE,[screaming] [music],Non-verbal: vengeful shrieks over [music],beat-86_stheno-euryale.mp3,non-verbal
+87,SFX,[music],,,sfx/music
+88,POLYDECTES,The fisherman's son returns. Empty-handed?,"Laughing, smug",beat-88_polydectes.mp3,dialogue
+89,PERSEUS,You asked for a gift.,Ice-cold calm,beat-89_perseus.mp3,dialogue
+90,POLYDECTES,"Show me, then.",Greedy curiosity,beat-90_polydectes.mp3,dialogue
+91,POLYDECTES,Show the whole hall what a fisherman's son can bring.,"Grand, mocking, to the crowd",beat-91_polydectes.mp3,dialogue
+92,DANAË,Perseus... don't.,Frightened plea,beat-92_danae.mp3,dialogue
+93,PERSEUS,Mother. Close your eyes.,"Soft, final",beat-93_perseus.mp3,dialogue
+94,SFX,[stone cracking],,,sfx/music
+95,SFX,[silence],,,sfx/music
 96,SFX,[music],,,sfx/music
+97,ATHENA,Give it to me.,Commanding,beat-97_athena.mp3,dialogue
+98,PERSEUS,She was a priestess. Yours.,Grief and accusation,beat-98_perseus.mp3,dialogue
+99,ATHENA,And now she will guard me forever.,"Triumphant, cold",beat-99_athena.mp3,dialogue
+100,ATHENA,Let every man who looks upon my shield,"Imperious, slow",beat-100_athena.mp3,dialogue
+101,ATHENA,remember what happens to those who turn away.,"Icy warning, trailing off",beat-101_athena.mp3,dialogue
+102,SFX,[stone grinding] [eyes opening] [hiss],,,sfx/music
+103,SFX,[music],,,sfx/music

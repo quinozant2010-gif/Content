@@ -1,16 +1,16 @@
 DANAË
 Voice: Mature female, 38-45. Soft, trembling, protective.
-Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-02_polydectes.mp3).
+Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-03_polydectes.mp3).
 
-BEAT 12  (Desperate, breaking)
+BEAT 13  (Desperate, breaking)
 No. No one returns from her. You know that.
 
-BEAT 23  (Tender, holding back tears)
+BEAT 25  (Tender, holding back tears)
 Swear you'll return to me.
 
-BEAT 26  (Heartbroken)
+BEAT 28  (Heartbroken)
 I don't want her head. I want my son.
 
-BEAT 86  (Frightened plea)
+BEAT 92  (Frightened plea)
 Perseus... don't.
 
