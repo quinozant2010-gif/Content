@@ -1,0 +1,49 @@
+ATHENA
+Voice: Regal female, 30s. Cool, measured, emotionless. Chant: whispered with reverb.
+Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-02_polydectes.mp3).
+
+BEAT 29  (Calm, echoing, divine)
+Perseus.
+
+BEAT 31  (Regal, measured)
+Your sister. Athena. Our father sent me.
+
+BEAT 33  (Commanding)
+Take this shield. Never look at her.
+
+BEAT 34  (Low, deliberate)
+Only her reflection.
+
+BEAT 37  (Cold, clipped)
+She defiled my temple.
+
+BEAT 39  (Wounded pride, icy)
+She renounced me.
+
+BEAT 41  (Final, chilling)
+For that, she must never be spoken of again.
+
+BEAT 71  (Whispered chant, reverb, quiet)
+Eyes on the shield. Eyes on the shield. Eyes on the shield.
+
+BEAT 72  (Whispered chant, layered, louder)
+Eyes on the shield. Eyes on the shield. Eyes on the shield.
+
+BEAT 73  (Chant, intense)
+Eyes on the shield. Eyes on the shield.
+
+BEAT 74  (Chant, peak intensity)
+Eyes on the shield. Eyes on the shield.
+
+BEAT 90  (Commanding)
+Give it to me.
+
+BEAT 92  (Triumphant, cold)
+And now she will guard me forever.
+
+BEAT 93  (Imperious, slow)
+Let every man who looks upon my shield
+
+BEAT 94  (Icy warning, trailing off)
+remember what happens to those who turn away.
+

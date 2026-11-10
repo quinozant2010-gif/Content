@@ -1,0 +1,16 @@
+GRAEAE
+Voice: Raspy, cracked elderly female. Layer 3 takes (slight pitch shifts) for three crones.
+Paste one line at a time into your voice tool. Save each clip as beat-NN_character.mp3 (e.g. beat-02_polydectes.mp3).
+
+BEAT 43  (Non-verbal: layered crone cackle)
+[cackling]
+
+BEAT 44  (Panicked, overlapping)
+Who's there? Who took our eye? Give it back!
+
+BEAT 45  (Shrieking)
+Thief! Three sisters, one eye, and you rob the blind?
+
+BEAT 47  (Raspy whisper, sinister)
+West. Past the stones that were men.
+
